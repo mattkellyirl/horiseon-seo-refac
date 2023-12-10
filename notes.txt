@@ -1,8 +1,8 @@
 Horiseon SEO Website Refactoring V1.1
 
-#Added website title
-#Added alternate attributes to all images
-#Restructured HTML document using semantic elements
-#Removed unnecessary CSS id selectors in main content section
-#Reformatted code indenting and wrapping
-#Added comments to both HTML and CSS files for maintenance 
+-Added website title
+-Added alternate attributes to all images
+-Restructured HTML document using semantic elements
+-Removed unnecessary CSS id selectors in main content section
+-Reformatted code indenting and wrapping
+-Added comments to both HTML and CSS files for maintenance 
