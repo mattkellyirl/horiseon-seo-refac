@@ -1,8 +1,25 @@
-Horiseon SEO Website Refactoring V1.1
+# Website Refactoring: Horiseon Marketing Services
 
+For this project, I was tasked with refactoring an existing web application for Horiseon Marketing Services. The primary goal for the refactored application was for it to have improved search engine optimisation and accessibility through the implementation of titles and alternate attributes. The application was also restructured in the newest HTML version using semantic elements, along with comments written throughout the codebase for future maintenance. The codebase was also reformatted through indenting, wrapping and restructured in the most logical executing order.
+
+##
+
+V1.1
 -Added website title
 -Added alternate attributes to all images
 -Restructured HTML document using semantic elements
 -Removed unnecessary CSS id selectors in main content section
 -Reformatted code indenting and wrapping
 -Added comments to both HTML and CSS files for maintenance 
+
+##
+
+V1.2
+-Edited notes.txt
+
+##
+
+V1.3
+-Edited notes.txt
+-Edited README.md
+-Fixed navigation bar jump links with id attributes

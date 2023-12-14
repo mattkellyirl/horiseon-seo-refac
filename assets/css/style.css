@@ -4,6 +4,16 @@
     margin: 0;
 }
 
+/* Text Styles */
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
 /* Background Color */
 body {
     background-color: #d9dcd6;
@@ -42,16 +52,6 @@ body {
     list-style-type: none;
     display: inline-block;
     margin-left: 25px;
-}
-
-/* Text Styles */
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
 }
 
 /* Hero Background Image */
