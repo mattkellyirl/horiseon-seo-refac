@@ -1,8 +1,13 @@
 # Website Refactoring: Horiseon Marketing Services
-
 For this project, I was tasked with refactoring an existing web application for Horiseon Marketing Services. The primary goal for the refactored application was for it to have improved search engine optimisation and accessibility through the implementation of titles and alternate attributes. The application was also restructured in the newest HTML version using semantic elements, along with comments written throughout the codebase for future maintenance. The codebase was also reformatted through indenting, wrapping and restructured in the most logical executing order.
 
-##
+## Link
+
+To view the refactored application, please visit the link below:
+https://mattkellyirl.github.io/horiseon-seo-refac/#social-media-marketing
+
+## Screenshot
+<img src="/assets/screenshot/horiseson-screenshot.png">
 
 V1.1
 <ul>
