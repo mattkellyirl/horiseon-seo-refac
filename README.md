@@ -4,10 +4,13 @@ For this project, I was tasked with refactoring an existing web application for 
 ## Link
 
 To view the refactored application, please visit the link below:
-https://mattkellyirl.github.io/horiseon-seo-refac/#social-media-marketing
+
+https://mattkellyirl.github.io/horiseon-seo-refac/
 
 ## Screenshot
 <img src="/assets/screenshot/horiseson-screenshot.png">
+
+##
 
 V1.1
 <ul>
